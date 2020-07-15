@@ -3,7 +3,7 @@
 			{
 			"id": 1,
 			"name": "India"
-			"cities": [
+			"cities" : [
 				{"id": 1, "name": "Mumbai"},
 				{"id": 2, "name": "Delhi"},
 				{"id": 3, "name": "Bangalore"},
@@ -12,7 +12,7 @@
 			},
 			{
 			"id": 2,
-			"name": "USA"
+			"name" : "USA"
 			"cities": [
 				{"id": 5, "name": "New York"},
 				{"id": 6, "name": "Los Angeles"},
@@ -24,15 +24,15 @@
 			{
 			"id": 3,
 			"name": "UK"
-			"cities": [
+			"cities" : [
 				{"id": 10, "name": "London"},
 				{"id": 11, "name": "Birmingham"},
 				{"id": 12, "name": "Liverpool"},
 				{"id": 12, "name": "Manchester"},
-				{"id": 9, "name": "Nottingham"}
+				{"id": 13, "name": "Nottingham"}
 				]
 			}
-	],
+		],
 
     "employees": [
         {"name": "Mahesh", "gender": "1", "salary": "30000.799", "city": "Thane"},
