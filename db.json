@@ -1,8 +1,8 @@
 {
-    "country" : [
+"country" : [
 			{
 			"id": 1,
-			"name": "India"
+			"name": "India",
 			"cities" : [
 				{"id": 1, "name": "Mumbai"},
 				{"id": 2, "name": "Delhi"},
@@ -12,7 +12,7 @@
 			},
 			{
 			"id": 2,
-			"name" : "USA"
+			"name" : "USA",
 			"cities": [
 				{"id": 5, "name": "New York"},
 				{"id": 6, "name": "Los Angeles"},
@@ -23,7 +23,7 @@
 			},
 			{
 			"id": 3,
-			"name": "UK"
+			"name": "UK",
 			"cities" : [
 				{"id": 10, "name": "London"},
 				{"id": 11, "name": "Birmingham"},
