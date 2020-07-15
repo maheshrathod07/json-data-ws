@@ -5,5 +5,12 @@
         {"name": "Amit", "gender": "1", "salary": "60000.741", "city": "Meerut"},
         {"name": "Akshaya", "gender": "3", "salary": "25000", "city": "Noida"},
         {"name": "Praveen", "gender": "2", "salary": "45000.01", "city": "Thane"}
-    ]
+    ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
