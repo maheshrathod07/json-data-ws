@@ -1,9 +1,9 @@
 {
     "employees": [
-        {name: "Mahesh", gender: 1, salary: 30000.799, city: "Thane"},
-        {name: "Yogesh", gender: 1, salary: 40000.853, city: "Mumbai"},
-        {name: "Amit", gender: 1, salary: 60000.741, city: "Meerut"},
-        {name: "Akshaya", gender: 3, salary: 25000, city: "Noida"},
-        {name: "Praveen", gender: 2, salary: 45000.01, city: "Thane"}
+        {"name": "Mahesh", "gender": 1, "salary": 30000.799, "city": "Thane"},
+        {"name": "Yogesh", "gender": 1, "salary": 40000.853, "city": "Mumbai"},
+        {"name": "Amit", "gender": 1, "salary": 60000.741, "city": "Meerut"},
+        {"name": "Akshaya", "gender": 3, "salary": 25000, "city": "Noida"},
+        {"name": "Praveen", "gender": 2, "salary": 45000.01, "city": "Thane"}
     ]
 }
